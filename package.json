@@ -1,0 +1,21 @@
+{
+  "name": "first-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "htmlFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node htmlFile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BastD29/node-js-2-test-render.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BastD29/node-js-2-test-render/issues"
+  },
+  "homepage": "https://github.com/BastD29/node-js-2-test-render#readme"
+}
